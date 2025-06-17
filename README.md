@@ -29,7 +29,11 @@ This project reinforced core React concepts:
 - Conditional rendering
 - Component composition and separation
 
+## Notes
 
+For a clear overview of how the app is structured and how data flows between components, see:
+
+[NOTES.md](./NOTES.md)
 
 ## Author
 
